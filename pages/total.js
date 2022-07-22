@@ -1,5 +1,4 @@
-import { useEffect } from "react";
-import { useCallback } from "react/cjs/react.development";
+import { useEffect, useCallback } from "react";
 import useQuiosco from "../hooks/useQuiosco";
 import Layout from "../layout/Layout";
 import { formatearDinero} from '../helpers/index';
